@@ -8,7 +8,6 @@
 </p>
 
 [APP下载](http://www.pointhouse.cn/download)
-[网页端入口](http://pointhouse.cn)
 [阅读手册](README)
 
 ![](_pic/川渝背景图.png)
