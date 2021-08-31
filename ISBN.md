@@ -1,4 +1,4 @@
-### ISBN 信息表
+### 新时代系列教材 ISBN 信息表
 <a href="http://www.njupco.com/"><img src="https://img.shields.io/badge/NJUP-学术立社，品牌兴社-blueviolet?logo=appveyor&style=plastic" alt="njupco"></a>
 
 </br></br>
