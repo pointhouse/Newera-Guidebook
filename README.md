@@ -2,9 +2,6 @@
 
 !> 在参考本文档前，请确保池馆APP已更新至 **2.3.0** 或以上版本。
 
-<div onclick="showdiv()">点击试试</div>
-<div id="img_div" style="display:none;" align="center"><img src="_pic/resources-code.png"  width="50%"></div>
-
 - **“池馆”APP** 与 **“新时代英语”网站** 是与“新时代大学英语”系列英语教材配套的英语学习平台，功能一致，且账户互通。
 - 本手册旨在同时为上述两个平台提供 **帮助文档**。
 - 可在移动端阅读此手册，但网页端体验更佳。
