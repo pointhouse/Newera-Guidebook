@@ -1,4 +1,4 @@
-![LOGO](../_pic/新时代.png ':size=10%')
+![LOGO](../_pic/earth-globe.svg ':size=10%')
 
 # Guidebook of Point<small>Ver. 2.3.0</small>house
 #### Unlock the Potential

@@ -1,4 +1,4 @@
-![LOGO](_pic/新时代.png ':size=10%')
+![LOGO](_pic/earth-globe.svg ':size=10%')
 
 # 池馆使用<small>Ver. 2.3.0</small>手册
 #### Unlock the Potential

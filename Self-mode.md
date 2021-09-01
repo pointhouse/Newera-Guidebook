@@ -5,6 +5,7 @@
 - 可从首页任意课程进入「课程列表」选择已购教材。
 
 - 从「班级」- 「我学习的」- 「课程」进入教师选定教材的学习。
+</br>
 <p align="center">
 <img src="_pic/03.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
@@ -29,7 +30,7 @@
 - 每部分均有进度条，可以借此把握学习进度。
     
     - 可作答页面（如:Task）提交后，系统将判定为「已学习」
-    
+
     - 非作答页面（如:Passage A、Words & Phrases）停留超过一定时常后系统将判定为「已学习」
 
-?> 🔗 非作答页面可以通过底部的「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq" width="2%"> <img src="_pic/wechat.svg" alt="wechat" width="2%"> 的四种渠道。
+?> 🔗 非作答页面可以通过底部的「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq" width="2%"> <img src="_pic/wechat.svg" alt="wechat" width="2%"> <img src="_pic/qzone.svg" alt="qzone" width="2%" title="qzone"> 的四种渠道。
