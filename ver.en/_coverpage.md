@@ -1,4 +1,4 @@
-![LOGO](_pic/新时代.png ':size=20%')
+![LOGO](../_pic/新时代.png ':size=10%')
 
 # Guidebook of Point<small>Ver. 2.3.0</small>house
 #### Unlock the Potential
@@ -7,7 +7,7 @@
 <a href="https://www.pointhouse.cn"><img src="https://img.shields.io/badge/NewEra-English-red?logo=AerLingus&style=plastic" alt="Pointhouse"></a>
 </p>
 
-[APP下载](http://www.pointhouse.cn/download)
-[阅读手册](README)
+[<span class="ps-icon ps-icon-download"></span> Download](http://www.pointhouse.cn/download)
+[<span class="ps-icon ps-icon-down"></span> Click to Read](README)
 
 ![](_pic/SouthwestMap.png)
