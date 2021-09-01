@@ -1,4 +1,4 @@
-![LOGO](../_pic/earth-globe.svg ':size=10%')
+![LOGO](../_pic/earth-globe.svg)
 
 # Manuel de Référen<small>Ver. 2.3.0</small>ce
 #### Livrer le Potentiel

@@ -7,7 +7,8 @@
 
 - 「新时代大学英语」系列教材纸质出版信息汇总，可查看：[🚪](ISBN.md)
 
-- 可通过「学生用书」**封二** 的二维码扫描获取，也可用<span title="池馆APP平台的虚拟货币，1RMB=1池币">「池币」</span>单独购买。
+- 可通过「学生用书」<span onclick="showdiv2()">**封二**</span><span class="ps-icon ps-icon-hand-pointer-left"></span>的二维码扫描获取，也可用<span title="池馆APP平台的虚拟货币，1RMB=1池币">「池币」</span>单独购买。
+<div id="img2" style="display:none;" align="center"><img src="_pic/resources-code.png"  width="50%"></div>
 
 - 网页端功能齐全，且阅读、练习体验更好。
 
