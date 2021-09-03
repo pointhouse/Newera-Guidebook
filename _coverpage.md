@@ -4,7 +4,7 @@
 #### Unlock the Potential
 
 <p align="center">
-<a href="https://www.pointhouse.cn"><img src="https://img.shields.io/badge/NewEra-English-red?logo=AerLingus&style=plastic" alt="Pointhouse"></a>
+<a href="https://www.pointhouse.cn" target="_blank"><img src="https://img.shields.io/badge/NewEra-English-red?logo=AerLingus&style=plastic" alt="Pointhouse"></a>
 </p>
 
 [<span class="ps-icon ps-icon-download"></span> APP下载](http://www.pointhouse.cn/download)

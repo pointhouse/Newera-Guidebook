@@ -1,6 +1,6 @@
 ### 新时代大学英语系列教材 ISBN 信息表
-<a href="http://www.njupco.com/"><img src="https://img.shields.io/badge/NJUP-昌明国粹，融化新知-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="njupco"></a></br>
-<a href="https://dafls.nju.edu.cn"><img src="https://img.shields.io/badge/新文科-Whole Person Education-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="newlit"></a>
+<a href="http://www.njupco.com/" target="_blank"><img src="https://img.shields.io/badge/NJUP-昌明国粹，融化新知-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="njupco"></a></br>
+<a href="https://dafls.nju.edu.cn" target="_blank"><img src="https://img.shields.io/badge/新文科-Whole Person Education-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="newlit"></a>
 
 </br>
 
@@ -24,7 +24,7 @@
 | 978-7-305-24323-3 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程 4（第2版）</span> | 2021.5 | 62.00 | 南京大学出版社 |
 
 </br>
-<a href="http://www.moe.gov.cn/srcsite/A07/moe_953/202012/t20201217_506058.html"><img src="https://img.shields.io/badge/十三五-职业教育国家规划教材-9cf?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABBVBMVEVOuZ9GmoyJ0L/H2exWjsUQl3lOd6wbYKrE0eMOjXLE59/V4/GJpMem3M8scbfx9voWU5uXr86qxuJzoc8QlHcKgGoiVJc/a6Xh6PEMh28YV59dgrMaXKUxrY8UTZRlq582kYJll8o/s5cRmXpIhMDT3eodZK4LhW1VopUZWaEUS5K40OemutWBqtQZWqOAps9rwq0dZrAVT5aUyb7w9PiDu7KTxLsip4ey1c/w9/WizMVdvqcxYJ6Nr9QyZqQXVZ0toIdNs5zB3dg6e7xMsZspjnwLgmzj7PWcvd0SnHxsjrq1xtwbXqcXgG9HnI3h8++14teOs9gTSZAIeGUToX8eaLL///9/wgIKAAAAV3RSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////wC+YzXjAAABfElEQVR42uzQ08LjUBSG4TLmX9vG2LZnwnX/d1LuZgV7F+fzngVP8KXg5v4TTDCVpSAI1euIYP6sOKEqHNdQFLPKIiPOYfUL0qQ/3c4LJA2HGQcu1kXytv7QodRu8gYH+WPF0s68DIjv++OmMY+J2e70jAOPlN+RKZJjfL2N4PUSer6/jpI0kqDx2jgK5TFAdvcUDiQJAP5J9xMEe/D73bw8AjiRU+9pBLsHJ+IEJHOe2LBPjpBHcaJRCETIkzixGaQckL9XEdt+IwDpqUsjGpJUrA9fXCrJrQLixasxiM0m4hnynU7yZ0iWTn5cJKmgPjEXSQYj5GuCLOgfhtUSJHuJiLeTfJQMryCDKIEVk2AxAgs5SiCceiAlJKThpbdMEkQvhEmLOhkS0l0PiZokRSShkECLOhkS/LiAWNTJkGB3GiGgZsI9O05GIyB/I0SiTIYkWuFIoE+ZbIok9nEHolIme84gIG/nDI59awZU4CLvhLtG5memZiU+qgUA5hPtNC3UoCMAAAAASUVORK5CYII=&style=social" alt="Pointhouse"></a>
+<a href="http://www.moe.gov.cn/srcsite/A07/moe_953/202012/t20201217_506058.html" target="_blank"><img src="https://img.shields.io/badge/十三五-职业教育国家规划教材-9cf?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABBVBMVEVOuZ9GmoyJ0L/H2exWjsUQl3lOd6wbYKrE0eMOjXLE59/V4/GJpMem3M8scbfx9voWU5uXr86qxuJzoc8QlHcKgGoiVJc/a6Xh6PEMh28YV59dgrMaXKUxrY8UTZRlq582kYJll8o/s5cRmXpIhMDT3eodZK4LhW1VopUZWaEUS5K40OemutWBqtQZWqOAps9rwq0dZrAVT5aUyb7w9PiDu7KTxLsip4ey1c/w9/WizMVdvqcxYJ6Nr9QyZqQXVZ0toIdNs5zB3dg6e7xMsZspjnwLgmzj7PWcvd0SnHxsjrq1xtwbXqcXgG9HnI3h8++14teOs9gTSZAIeGUToX8eaLL///9/wgIKAAAAV3RSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////wC+YzXjAAABfElEQVR42uzQ08LjUBSG4TLmX9vG2LZnwnX/d1LuZgV7F+fzngVP8KXg5v4TTDCVpSAI1euIYP6sOKEqHNdQFLPKIiPOYfUL0qQ/3c4LJA2HGQcu1kXytv7QodRu8gYH+WPF0s68DIjv++OmMY+J2e70jAOPlN+RKZJjfL2N4PUSer6/jpI0kqDx2jgK5TFAdvcUDiQJAP5J9xMEe/D73bw8AjiRU+9pBLsHJ+IEJHOe2LBPjpBHcaJRCETIkzixGaQckL9XEdt+IwDpqUsjGpJUrA9fXCrJrQLixasxiM0m4hnynU7yZ0iWTn5cJKmgPjEXSQYj5GuCLOgfhtUSJHuJiLeTfJQMryCDKIEVk2AxAgs5SiCceiAlJKThpbdMEkQvhEmLOhkS0l0PiZokRSShkECLOhkS/LiAWNTJkGB3GiGgZsI9O05GIyB/I0SiTIYkWuFIoE+ZbIok9nEHolIme84gIG/nDI59awZU4CLvhLtG5memZiU+qgUA5hPtNC3UoCMAAAAASUVORK5CYII=&style=social" alt="Pointhouse"></a>
 
 | ISBN | Title | PuDate | Prize/¥ | Publisher |
 | :--: | :-: | :-----: | :---: | :-------: |

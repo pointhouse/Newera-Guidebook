@@ -34,4 +34,4 @@
 
     - 非作答页面（如:Passage A、Words & Phrases）停留超过一定时常后系统将判定为「已学习」。
 
-?> 🔗 非作答页面可通过底部「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq" width="2%"> <img src="_pic/wechat.svg" alt="wechat" width="2%"> <img src="_pic/qzone.svg" alt="qzone" width="2%" title="qzone"> 的四种渠道。
+?> 🔗 非作答页面可通过底部「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq" width="2%"> <img src="_pic/wechat.svg" alt="wechat" width="2%"> <img src="_pic/qzone.svg" alt="qzone" width="2%" title="qzone"> <img src="_pic/WechatMoment.svg" alt="wechatmoment" width="2%" title="wechatmoment"> 的四种渠道。
