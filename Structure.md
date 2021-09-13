@@ -20,7 +20,7 @@
 
 ### 扩展课程
 📚📚
-- 大部分课程需用池币购买，部分课程免费开放给所有用户。
+- 大部分课程需用<span title="池馆APP平台的虚拟货币，1RMB=1池币">「池币」</span>购买，部分课程免费开放给所有用户。
 
 - 后续会上线「名师专栏」、「幕课微课私播课」，欢迎专家学者与我社业务人员联系。
 
@@ -39,8 +39,9 @@
 - 支持创建 **校本资源库**，并向指定学校(s)师生用户开放。
 
 </br>
+</br>
 <p align="center">
-<img src="_pic/08.png" width="35%" alt="池馆Ver.2.3.1">
+<img src="_pic/07.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
 </br>
 
@@ -53,9 +54,8 @@
 - 亦可通过 [已有模版](/Digiclass?id=题库、无纸化考试) 组建 [线上无纸化考试](/Digiclass?id=题库、无纸化考试)
 
 </br>
-</br>
 <p align="center">
-<img src="_pic/07.png" width="35%" alt="池馆Ver.2.3.1">
+<img src="_pic/08.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
 </br>
 
