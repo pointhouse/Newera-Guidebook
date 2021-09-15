@@ -38,4 +38,4 @@
 <img src="_pic/10.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
 
-?> 🔗 非作答页面可通过底部「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq" width="2%"> <img src="_pic/wechat.svg" alt="wechat" width="2%"> <img src="_pic/qzone.svg" alt="qzone" width="2%" title="qzone"> <img src="_pic/WechatMoment.svg" alt="wechatmoment" width="2%" title="wechatmoment"> 的四种渠道。
+?> 🔗 非作答页面可通过底部「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq"> <img src="_pic/wechat.svg" alt="wechat"> <img src="_pic/qzone.svg" alt="qzone" title="qzone"> <img src="_pic/WechatMoment.svg" alt="wechatmoment" title="wechatmoment"> 的四种渠道。

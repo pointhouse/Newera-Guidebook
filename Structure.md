@@ -38,8 +38,8 @@
 
 - 支持创建 **校本资源库**，并向指定学校(s)师生用户开放。
 
-</br>
-</br>
+<br>
+<br>
 <p align="center">
 <img src="_pic/07.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
