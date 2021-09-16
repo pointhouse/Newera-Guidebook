@@ -1,18 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hans">
 <head>
   <meta charset="UTF-8">
   <title>池馆使用手册</title>
+  <link rel="icon" href="favicon.png" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="池馆使用手册or帮助文档">
-  <link rel="icon" type="image/svg+xml" href="_pic/earth-globe.svg">
-  <meta rel="shortcut icon" href="https://z3.ax1x.com/2021/09/13/4PB4fA.jpg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <meta property="og:title" content="池馆帮助手册" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://z3.ax1x.com/2021/09/13/4PB4fA.jpg" />
-  <meta property="og:description" content="池馆使用手册or帮助文档" />
-  <meta property="og:article:author" content="新时代外语研究中心数字化小组">
+  <meta name="author" content="新时代外语研究中心数字化小组">
+  <meta name="description" content="本手册旨在同时为「池馆」APP 与「新时代英语」网站提供帮助文档" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
   <link rel="stylesheet" href="_assets/vue.css">
   <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
 <style>
@@ -75,7 +70,7 @@
       },
 
       footer: {
-        copy: '</br></br><span>Latest Update 2021.9.15</br></span>',
+        copy: '</br></br><span>Latest Update 2021.9.16</br></span>',
         auth: ' <strong>新时代外语研究中心数字化小组</strong>',
         style: 'font-size: 10px; text-align: center;',
       },
@@ -90,15 +85,17 @@
     }
   
     function showdiv1(){ 
-      if(document.getElementById("img1").style.display=="block")
-      {document.getElementById("img1").style.display="none"; }
-      else{document.getElementById("img1").style.display="block"; } 
+      var img1 = document.getElementById("img1")
+      if(img1.style.display=="block")
+      {img1.style.display="none"; }
+      else{img1.style.display="block"; } 
     }
 
-    function showdiv2(){ 
-      if(document.getElementById("img2").style.display=="block")
-      {document.getElementById("img2").style.display="none"; }
-      else{document.getElementById("img2").style.display="block"; } 
+    function showdiv2(){
+      var img2 = document.getElementById("img2")
+      if(img2.style.display=="block")
+      {img2.style.display="none"; }
+      else{img2.style.display="block"; } 
     }
 
   </script>
