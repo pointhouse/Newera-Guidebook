@@ -47,6 +47,29 @@
 
 - 「投票」功能会自动保存之前的发布记录，可在不同班级内发送相同投票，也可在模版基础上进行调整。
 
+- 发布「写作类型」的作业时，可在「发放设置」点亮「使用机器批改」，自主设定关键词汇（防偏题）和字数限制，以及相应权重。最终分数包含三个权重，相加须为100%。参考流程如下：
+
+<div id="homework">
+
+<i class="ps-icon ps-icon-girl-user"></i>&nbsp;&nbsp;<strong>教师在发放时设置：</strong>
+
+**a.** 机器批改权重 <mark>80%</mark>；<br>
+**b.** 词数要求 150；词数权重 <mark>10%</mark>；<br>
+**c.** 关键词：school、teacher 关键词权重 <mark>10%</mark>；<br>
+
+<i class="ps-icon ps-icon-cinch"></i>&nbsp;&nbsp;<strong>学生提交作业：</strong> <br>
+
+**a.** AI给文章语言质量的评分为 **80** 分（满分100分）；<br>
+**b.** 词数 145，未超过规定词数，得 **100** 分 ；<br>
+**c.** 文中有 teacher 但未出现 school，扣题率50%，得 **50** 分；<br>
+**d.** 教师阅读文章后，认为AI批改过于严格，手动将语言质量得分改为 **90** 分；<br>
+
+<i class="ps-icon ps-icon-sign"></i>&nbsp;&nbsp;<strong>则该学生最终得分为：</strong> <br>
+
+**90** × <mark>80%</mark> + **100** × <mark>10%</mark> + **50** × <mark>10%</mark> = **79分**
+
+</div>
+
 <br>
 
 ## 题库、无纸化考试 
