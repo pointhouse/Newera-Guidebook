@@ -1,6 +1,6 @@
 ![LOGO](../_pic/earth-globe.svg)
 
-# Guidebook of Point<small>Ver. 2.3.0</small>house
+# Guidebook of Point<small>Ver. 2.4.0</small>house
 #### Unlock the Potential
 
 <p align="center">

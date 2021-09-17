@@ -1,6 +1,6 @@
 ![LOGO](../_pic/earth-globe.svg)
 
-# Manuel de Référen<small>Ver. 2.3.0</small>ce
+# Manuel de Référen<small>Ver. 2.4.0</small>ce
 #### Livrer le Potentiel
 
 <p align="center">

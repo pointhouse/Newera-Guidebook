@@ -1,6 +1,6 @@
 ![LOGO](_pic/earth-globe.svg)
 
-# 池馆使用<small>Ver. 2.3.0</small>手册
+# 池馆使用<small>Ver. 2.4.0</small>手册
 #### Unlock the Potential
 
 <p align="center">
