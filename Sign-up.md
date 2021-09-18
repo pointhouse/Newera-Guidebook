@@ -19,13 +19,13 @@
 
 </br>
 
-* 通过App首页左上角的扫描功能扫取“新时代系列教材”中任意「教学参考书」<span onclick="showdiv1()">**封二**</span><span class="ps-icon ps-icon-hand-pointer-left"></span>上的教师二维码即可升级为教师账户。
+* 通过App首页左上角的扫描功能扫取“新时代系列教材”中任意「教学参考书」<span style="cursor: help;" onclick="showdiv1()">**封二**</span><span class="ps-icon ps-icon-hand-pointer-left"></span>上的教师二维码即可升级为教师账户。
 
 <p align="center">
     <img src="_pic/04.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
 
-<div id="img1" style="display:none;" align="center"><img src="_pic/teacher-code.png"  width="50%"></div>
+<div id="img1"><img src="_pic/teacher-code.png"  width="50%"></div>
 
 * 教师用户可查看并使用所有已上线的「数字化教材」和「题库」资源，同时获得 [班级](Digiclass) 的设置和监管权限。
 
@@ -37,9 +37,9 @@
 
 * 出于维护教学秩序的考虑，学生账户只能逐本激活所学教材的对应资源。
 
-* 同样，通过APP首页左上角的扫描功能扫取“新时代系列教材”中「学生用书」<span onclick="showdiv2()">**封二**</span><span class="ps-icon ps-icon-hand-pointer-left"></span>上的二维码，即可激活对应资源。
+* 同样，通过APP首页左上角的扫描功能扫取“新时代系列教材”中「学生用书」<span style="cursor: help;" onclick="showdiv2()">**封二**</span><span class="ps-icon ps-icon-hand-pointer-left"></span>上的二维码，即可激活对应资源。
 
-<div id="img2" style="display:none;" align="center"><img src="_pic/resources-code.png"  width="50%"></div>
-    
+<div id="img2"><img src="_pic/resources-code.png"  width="50%"></div>
+
 
 !> 升级教师账户、激活资源权限都必须通过手机端池馆APP操作完成，网页端会随之生效。
