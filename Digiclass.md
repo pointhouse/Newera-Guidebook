@@ -54,13 +54,13 @@
 <i class="ps-icon ps-icon-girl-user"></i>&nbsp;&nbsp;<strong>教师在发放时设置：</strong>
 
 **a.** 机器批改权重 <mark>80%</mark>；<br>
-**b.** 词数要求 150；词数权重 <mark>10%</mark>；<br>
+**b.** 词数要求 140；词数权重 <mark>10%</mark>；<br>
 **c.** 关键词：school、teacher 关键词权重 <mark>10%</mark>；<br>
 
 <i class="ps-icon ps-icon-cinch"></i>&nbsp;&nbsp;<strong>学生提交作业：</strong> <br>
 
 **a.** AI给文章语言质量的评分为 **80** 分（满分100分）；<br>
-**b.** 词数 145，未超过规定词数，得 **100** 分 ；<br>
+**b.** 词数 145，达到规定词数，得 **100** 分 ；<br>
 **c.** 文中有 teacher 但未出现 school，扣题率50%，得 **50** 分；<br>
 **d.** 教师阅读文章后，认为AI批改过于严格，手动将语言质量得分改为 **90** 分；<br>
 
