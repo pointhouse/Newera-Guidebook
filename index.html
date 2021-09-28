@@ -8,6 +8,8 @@
   <meta name="author" content="新时代外语研究中心数字化小组">
   <meta name="description" content="本手册旨在同时为「池馆」APP 与「新时代英语」网站提供帮助文档" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+  <script src="_assets/jspdf.js"></script>
+  <script src="_assets/html2canvas.js"></script>
   <link rel="stylesheet" href="_assets/vue.css">
   <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
 <style>
@@ -60,6 +62,18 @@
     text-align: center;
   }
 
+  #downloadBtn-container {
+    position: fixed;
+    top: 60px;
+    right: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .downloadBtn {
+    font-size: 10px;
+  }
+
 </style>
 </head>
 <body>
@@ -77,13 +91,6 @@
       loadNavbar:true,
       subMaxLevel:3,
 
-      count:{
-        countable:true,
-        fontsize:'0.7em',
-        color:'#000000',
-        language:'english'
-      },
-
       footer: {
         copy: '</br></br><span>Latest Update 2021.9.16</br></span>',
         auth: ' <strong>新时代外语研究中心数字化小组</strong>',
@@ -97,31 +104,74 @@
         depth: 6,
         maxAge: 86400000,
        },
-    }
-  
+
+      plugins: [
+        function(hook, vm) {
+          hook.doneEach(function(){
+            const mainContent = document.querySelector('.content');
+            const main = document.querySelector('main');
+            const pdfEntry = document.createElement('div');
+            pdfEntry.setAttribute('id', 'downloadBtn-container');
+            pdfEntry.innerHTML = '<span class="ps-icon ps-icon-download downloadBtn">&nbsp;将本页导出为PDF</span>';
+            main.appendChild(pdfEntry);
+
+            function pdfGenerator(){
+              html2canvas(mainContent, {
+                allowTaint: true,
+              }).then(canvas => {
+                let contentWidth = canvas.width;
+                let contentHeight = canvas.height;
+                let pageHeight = contentWidth / 592.28 * 841.89;
+                let leftHeight = contentHeight;
+                let position = 0;
+                let imgWidth = 595.28;
+                let imgHeight = 595.28 / contentWidth * contentHeight;
+                let pageData = canvas.toDataURL('image/jpeg', 1.0)
+                let testPdf = new jsPDF('', 'pt', 'a4');
+                if (leftHeight < pageHeight){
+                    testPdf.addImage(pageData, 'JPEG', 0, 0, imgWidth, imgHeight);
+                } else {
+                    while (leftHeight > 0){
+                        testPdf.addImage(pageData, 'JPEG', 0, position, imgWidth, imgHeight);
+                        leftHeight -= pageHeight;
+                        position -= 841.89;
+                        if (leftHeight > 0){
+                            testPdf.addPage()
+                        }
+                    }
+                };
+                testPdf.save("test.pdf");
+              })
+                };
+            
+            const downloadBtn = document.querySelector('.downloadBtn');
+            downloadBtn.addEventListener('click', pdfGenerator);
+          });
+        },
+      ]
+    };
+
     function showdiv1(){ 
-      var img1 = document.getElementById("img1")
-      if(img1.style.display=="block")
-      {img1.style.display="none"; }
-      else{img1.style.display="block"; } 
-    }
+      var img1 = document.getElementById("img1");
+      img1.style.display = (img1.style.display === "block") ? "none" : "block" ;
+    };
 
     function showdiv2(){
       var img2 = document.getElementById("img2")
-      if(img2.style.display=="block")
-      {img2.style.display="none"; }
-      else{img2.style.display="block"; } 
-    }
+      img2.style.display = (img2.style.display === "block") ? "none" : "block" ;
+    };
+
+    const screenShot = [
+      'ScreenShot/Readme.png',
+    ];
 
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <script src="_assets/showdiv.js"></script>
 </script>
 </body>
 </html>
