@@ -422,6 +422,10 @@ body.close .content {
     height: auto;
     overflow-x: hidden;
   }
+  .markdown-section {
+    max-width: 88%;
+    padding: 30px 10px 40px 10px;
+  }
   .sidebar {
     left: -300px;
     transition: transform 250ms ease-out;
