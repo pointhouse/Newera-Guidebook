@@ -65,7 +65,7 @@
   #downloadBtn-container {
     position: fixed;
     top: 60px;
-    right: 5%;
+    right: 4%;
     cursor: pointer;
     font-weight: bold;
   }
@@ -109,15 +109,21 @@
         function(hook, vm) {
           hook.doneEach(function(){
             const mainContent = document.querySelector('.content');
-            const main = document.querySelector('main');
+            const main = document.querySelector('#main');
             const pdfEntry = document.createElement('div');
+            const getTitle = document.body.getAttribute('data-page').replace('.md', '');
+
             pdfEntry.setAttribute('id', 'downloadBtn-container');
+            pdfEntry.setAttribute('data-html2canvas-ignore', 'ture');
             pdfEntry.innerHTML = '<span class="ps-icon ps-icon-download downloadBtn">&nbsp;将本页导出为PDF</span>';
             main.appendChild(pdfEntry);
 
             function pdfGenerator(){
               html2canvas(mainContent, {
                 allowTaint: true,
+                imageTimeut: 25000,
+                windowWidth: mainContent.scrollWidth,
+                windowHeight: mainContent.scrollHeight,
               }).then(canvas => {
                 let contentWidth = canvas.width;
                 let contentHeight = canvas.height;
@@ -140,7 +146,7 @@
                         }
                     }
                 };
-                testPdf.save("test.pdf");
+                testPdf.save(`${getTitle}.pdf`);
               })
                 };
             
