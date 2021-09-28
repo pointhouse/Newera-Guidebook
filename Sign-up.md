@@ -8,7 +8,7 @@
 
     * 注册后可免费领取部分资源。如：石坚的思政课、研讨会精选
 
-* 补全个人信息：学校、学号、姓名。尽可能如实填写，以便日后进行[班级管理](Digiclass)、发放<mark>校本材料</mark>。
+* 补全个人信息：学校、学号、姓名。尽可能如实填写，以便日后进行[班级管理](Digiclass)、发放<span class="highlight">校本材料</span>。
 
 <p align="center">
 <img src="_pic/02.png" width="35%" alt="池馆Ver.2.3.1">
@@ -27,7 +27,7 @@
 
 <div id="img1"><img src="_pic/teacher-code.png"  width="50%"></div>
 
-* 教师用户可查看并使用**所有已上线的「数字化教材」和「题库」资源**，同时获得 [班级](Digiclass) 的设置和监管权限。
+* 教师用户可查看并使用<span class="highlight">所有已上线的「数字化教材」和「题库」资源</span>，同时获得 [班级](Digiclass) 的设置和监管权限。
 
 * 每个教师码只能使用一次，升级成功后即作废。
 
