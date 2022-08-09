@@ -14,27 +14,23 @@
 | 978-7-305-25511-3 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 2（第3版）</span> | 2022.3 | 90.00 | 南京大学出版社 |
 | 978-7-305-25512-0 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 3（第3版）</span> | 2022.3 | 90.00 | 南京大学出版社 |
 | 978-7-305-25513-7 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 4（第3版）</span> | 2022.3 | 90.00 | 南京大学出版社 |
+| 978-7-305-25506-9	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册1（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-25507-6	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册2（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-25508-3	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册3（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-25509-0	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册4（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-24320-2	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程1（第2版）</span> | 2021.4 | 62.00 | 南京大学出版社 |
+| 978-7-305-24321-9	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程2（第2版）</span> | 2021.4 | 62.00 | 南京大学出版社 |
+| 978-7-305-24322-6	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程3（第2版）</span> | 2021.4 | 62.00 | 南京大学出版社 |
+| 978-7-305-24323-3	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程4（第2版）</span> | 2021.4 | 62.00 | 南京大学出版社 |
+| 978-7-305-24368-4	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程教学参考书1（第2版）</span> | 2021.4 | 90.00 | 南京大学出版社 |
+| 978-7-305-24369-1	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程教学参考书2（第2版）</span> | 2021.4 | 90.00 | 南京大学出版社 |
+| 978-7-305-24370-7	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程教学参考书3（第2版）</span> | 2021.4 | 90.00 | 南京大学出版社 |
+| 978-7-305-24371-4	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程教学参考书4（第2版）</span> | 2021.4 | 90.00 | 南京大学出版社 |
+| 978-7-305-23086-8	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语长篇阅读1 | 2020.4 </span> | 49.00 | 南京大学出版社 |
+| 978-7-305-23087-5	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语长篇阅读2 | 2020.4 </span> | 49.00 | 南京大学出版社 |
+| 978-7-305-23088-2	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语长篇阅读3 | 2020.4 </span> | 49.00 | 南京大学出版社 |
+| 978-7-305-23089-9	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语长篇阅读4 | 2020.4 </span> | 49.00 | 南京大学出版社 |
 
-</br>
-
-| ISBN | Title | PuDate | Prize/¥ | Publisher |
-| :--: | :-: | :-----: | :---: | :-------: |
-| 978-7-305-24309-7 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 1（第2版）</span> | 2021.5 | 65.00 | 南京大学出版社 |
-| 978-7-305-24310-3 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 2（第2版）</span> | 2021.5 | 65.00 | 南京大学出版社 |
-| 978-7-305-24311-0 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 3（第2版）</span> | 2021.5 | 65.00 | 南京大学出版社 |
-| 978-7-305-24312-7 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 4（第2版）</span> | 2021.5 | 65.00 | 南京大学出版社 |
-| 978-7-305-24313-4 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 1（第2版）</span> | 2021.5 | 90.00 | 南京大学出版社 |
-| 978-7-305-24314-1 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 2（第2版）</span> | 2021.5 | 90.00 | 南京大学出版社 |
-| 978-7-305-24315-8 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 3（第2版）</span> | 2021.5 | 90.00 | 南京大学出版社 |
-| 978-7-305-24316-5 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 4（第2版）</span> | 2021.5 | 90.00 | 南京大学出版社 |
-| 978-7-305-24324-0 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册 1（第2版）</span> | 2021.5 | 39.00 | 南京大学出版社 |
-| 978-7-305-24317-2 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册 2（第2版）</span> | 2021.5 | 39.00 | 南京大学出版社 |
-| 978-7-305-24318-9 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册 3（第2版）</span> | 2021.5 | 39.00 | 南京大学出版社 |
-| 978-7-305-24319-6 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册 4（第2版）</span> | 2021.5 | 39.00 | 南京大学出版社 |
-| 978-7-305-24320-2 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程 1（第2版）</span> | 2021.5 | 62.00 | 南京大学出版社 |
-| 978-7-305-24321-9 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程 2（第2版）</span> | 2021.5 | 62.00 | 南京大学出版社 |
-| 978-7-305-24322-6 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程 3（第2版）</span> | 2021.5 | 62.00 | 南京大学出版社 |
-| 978-7-305-24323-3 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语视听说教程 4（第2版）</span> | 2021.5 | 62.00 | 南京大学出版社 |
 
 </br>
 <a data-html2canvas-ignore="true" href="http://www.moe.gov.cn/srcsite/A07/moe_953/202012/t20201217_506058.html" target="_blank"><img src="https://img.shields.io/badge/十三五-职业教育国家规划教材-9cf?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABBVBMVEVOuZ9GmoyJ0L/H2exWjsUQl3lOd6wbYKrE0eMOjXLE59/V4/GJpMem3M8scbfx9voWU5uXr86qxuJzoc8QlHcKgGoiVJc/a6Xh6PEMh28YV59dgrMaXKUxrY8UTZRlq582kYJll8o/s5cRmXpIhMDT3eodZK4LhW1VopUZWaEUS5K40OemutWBqtQZWqOAps9rwq0dZrAVT5aUyb7w9PiDu7KTxLsip4ey1c/w9/WizMVdvqcxYJ6Nr9QyZqQXVZ0toIdNs5zB3dg6e7xMsZspjnwLgmzj7PWcvd0SnHxsjrq1xtwbXqcXgG9HnI3h8++14teOs9gTSZAIeGUToX8eaLL///9/wgIKAAAAV3RSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////wC+YzXjAAABfElEQVR42uzQ08LjUBSG4TLmX9vG2LZnwnX/d1LuZgV7F+fzngVP8KXg5v4TTDCVpSAI1euIYP6sOKEqHNdQFLPKIiPOYfUL0qQ/3c4LJA2HGQcu1kXytv7QodRu8gYH+WPF0s68DIjv++OmMY+J2e70jAOPlN+RKZJjfL2N4PUSer6/jpI0kqDx2jgK5TFAdvcUDiQJAP5J9xMEe/D73bw8AjiRU+9pBLsHJ+IEJHOe2LBPjpBHcaJRCETIkzixGaQckL9XEdt+IwDpqUsjGpJUrA9fXCrJrQLixasxiM0m4hnynU7yZ0iWTn5cJKmgPjEXSQYj5GuCLOgfhtUSJHuJiLeTfJQMryCDKIEVk2AxAgs5SiCceiAlJKThpbdMEkQvhEmLOhkS0l0PiZokRSShkECLOhkS/LiAWNTJkGB3GiGgZsI9O05GIyB/I0SiTIYkWuFIoE+ZbIok9nEHolIme84gIG/nDI59awZU4CLvhLtG5memZiU+qgUA5hPtNC3UoCMAAAAASUVORK5CYII=&style=social" alt="Pointhouse"></a>
