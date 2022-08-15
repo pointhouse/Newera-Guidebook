@@ -11,6 +11,7 @@
   <script src="_assets/jspdf.js"></script>
   <script src="_assets/html2canvas.js"></script>
   <script src="_assets/dom2image.js"></script>
+  <script src="//unpkg.byted-static.com/xgplayer/2.31.2/browser/index.js" type="text/javascript"></script>
   <link rel="stylesheet" href="_assets/vue.css">
   <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
 <style>
@@ -79,6 +80,13 @@
     }
   }
 
+  #xg-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
 </style>
 </head>
 <body>
@@ -113,6 +121,23 @@
       plugins: [
         function(hook, vm) {
           hook.doneEach(function(){
+
+            let player = new Player({
+              id: 'xg01',
+              url: '_pic/01.以手机号注册.mp4',
+              download: true,
+              videoInit: true,
+              fitVideoSize: 'fixHeight'
+            });
+
+            let player02 = new Player({
+              id: 'xg02',
+              url: '_pic/02.在电脑上注册.mp4',
+              download: true,
+              videoInit: true,
+              fitVideoSize: 'fixHeight'
+            });
+
             const mainContent = document.querySelector('.content');
             const main = document.querySelector('#main');
             const pdfEntry = document.createElement('div');
