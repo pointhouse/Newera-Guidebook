@@ -10,8 +10,7 @@
 
 * 补全个人信息：学校、学号、姓名。尽可能如实填写，以便教师进行<span class="highlight">班级管理</span>、发放<span class="highlight">校本材料</span>。
 
-
-<div id="xg-container">
+<div class="xg-container">
     <div id="xg01"></div>
     <div id="xg02"></div>
 </div>
@@ -43,7 +42,7 @@
 
 * 出于维护教学秩序的考虑，学生账户只能逐本激活所学教材的对应资源。
 
-* 同样，通过APP首页左上角的扫描功能扫取“新时代系列教材”中「学生用书」<span style="cursor: help;" onclick="showdiv2()">**封二**</span><span class="ps-icon ps-icon-hand-pointer-left"></span>上的二维码，即可激活对应资源。
+* 同样，通过APP首页左上角的扫描功能扫取“新时代系列教材”中「学生用书」<span style="cursor: help;" onclick="showdiv2()">**封二**</span><span class="ps-icon ps-icon-hand-pointer-left"></span>上的二维码，即可激活对应资源。每个资源码只能使用一次，用后即废。
 
 <div id="img2"><img src="_pic/resources-code.png"  width="50%"></div>
 

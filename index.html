@@ -11,6 +11,7 @@
   <script src="_assets/jspdf.js"></script>
   <script src="_assets/html2canvas.js"></script>
   <script src="_assets/dom2image.js"></script>
+  <script type="text/javascript" src="_assets/video_url.js"></script>
   <script src="//unpkg.byted-static.com/xgplayer/2.31.2/browser/index.js" type="text/javascript"></script>
   <link rel="stylesheet" href="_assets/vue.css">
   <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
@@ -80,7 +81,7 @@
     }
   }
 
-  #xg-container {
+  .xg-container {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -120,23 +121,38 @@
 
       plugins: [
         function(hook, vm) {
+
           hook.doneEach(function(){
 
-            let player = new Player({
-              id: 'xg01',
-              url: '_pic/01.以手机号注册.mp4',
-              download: true,
-              videoInit: true,
-              fitVideoSize: 'fixHeight'
-            });
+            if(document.getElementById("xg01")){
+              let player = new Player({
+                id: 'xg01',
+                url: `${xgArray[0]}`,
+                download: true,
+                videoInit: true,
+                fitVideoSize: 'fixHeight'
+              });
+            } else {console.log("无1号视频")};
 
-            let player02 = new Player({
-              id: 'xg02',
-              url: '_pic/02.在电脑上注册.mp4',
-              download: true,
-              videoInit: true,
-              fitVideoSize: 'fixHeight'
-            });
+            if(document.getElementById("xg02")){
+              let player02 = new Player({
+                id: 'xg02',
+                url: `${xgArray[1]}`,
+                download: true,
+                videoInit: true,
+                fitVideoSize: 'fixHeight'
+              });
+            } else {console.log("无2号视频")};
+
+            if(document.getElementById("xg03")){
+              let player03 = new Player({
+                id: 'xg03',
+                url: `${xgArray[2]}`,
+                download: true,
+                videoInit: true,
+                fitVideoSize: 'fixHeight'
+              });
+            } else {console.log("无3号视频")}; 
 
             const mainContent = document.querySelector('.content');
             const main = document.querySelector('#main');
