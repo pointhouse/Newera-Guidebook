@@ -73,19 +73,74 @@
     font-size: 10px;
   }
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 768px){
     #homework {
       padding: .5rem .8rem;
       border-radius: .5rem;
       margin: 0 1rem;
-    }
+    };
   }
 
-  .xg-container {
+/*  .xg-container {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+  }*/
+
+  #MobileVideosContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    row-gap: 15px;
+    justify-items: center;
+  }
+
+  #WebVideosContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 15px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .TextRapper {
+    display: flex;
+    flex-direction: column;
+  } 
+
+  .illustrated-text {
+    align-content: center;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  .non-fill {
+    text-decoration: line-through;
+  }
+
+  @media screen and (max-width: 900px) {
+    #MobileVideosContainer {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      row-gap: 15px;
+    }
+
+/*    #WebVideosContainer {
+      display: grid;
+      grid-template-columns: 1fr;
+      row-gap: 15px;
+      justify-items: center;
+    }*/
+  }
+
+  @media screen and (max-width: 600px) {
+    #MobileVideosContainer {
+      display: grid;
+      grid-template-columns: 1fr;
+      row-gap: 15px;
+    }
   }
 
 </style>
@@ -153,6 +208,61 @@
                 fitVideoSize: 'fixHeight'
               });
             } else {console.log("无3号视频")}; 
+
+            if(document.getElementById("xg04")){
+              let player04 = new Player({
+                id: 'xg04',
+                url: `${xgArray[3]}`,
+                download: true,
+                videoInit: true,
+                fitVideoSize: 'fixHeight'
+              });
+            } else {console.log("无4号视频")}; 
+
+
+            if(document.getElementById("xg05")){
+              let player05 = new Player({
+                id: 'xg05',
+                url: `${xgArray[4]}`,
+                download: true,
+                videoInit: true,
+                fluid: true,
+                fitVideoSize: 'fixWidth',
+              });
+            } else {console.log("无5号视频")}; 
+
+            if(document.getElementById("xg06")){
+              let player06 = new Player({
+                id: 'xg06',
+                url: `${xgArray[5]}`,
+                download: true,
+                videoInit: true,
+                fluid: true,
+                fitVideoSize: 'fixWidth',
+              });
+            } else {console.log("无6号视频")}; 
+
+            if(document.getElementById("xg07")){
+              let player07 = new Player({
+                id: 'xg07',
+                url: `${xgArray[6]}`,
+                download: true,
+                videoInit: true,
+                fluid: true,
+                fitVideoSize: 'fixWidth',
+              });
+            } else {console.log("无7号视频")}; 
+
+            if(document.getElementById("xg08")){
+              let player08 = new Player({
+                id: 'xg08',
+                url: `${xgArray[7]}`,
+                download: true,
+                videoInit: true,
+                fluid: true,
+                fitVideoSize: 'fixWidth',
+              });
+            } else {console.log("无8号视频")};             
 
             const mainContent = document.querySelector('.content');
             const main = document.querySelector('#main');

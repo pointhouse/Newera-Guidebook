@@ -5,4 +5,5 @@
 * [<div class="ps-icon ps-icon-puzzle"></div> 池馆资源结构](Structure.md)
 * [<div class="ps-icon ps-icon-70-160"></div> 自习模式](Self-mode.md)
 * [<div class="ps-icon ps-icon-book"></div> 班级管理](Digiclass.md)
+* [<div class="ps-icon ps-icon-clock"></div> 演示视频合辑](VideoList.md)
 * [<div class="ps-icon ps-icon-chat"></div> FAQ](FAQ.md)

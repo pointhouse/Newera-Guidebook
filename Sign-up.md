@@ -10,15 +10,10 @@
 
 * 补全个人信息：学校、学号、姓名。尽可能如实填写，以便教师进行<span class="highlight">班级管理</span>、发放<span class="highlight">校本材料</span>。
 
-<div class="xg-container">
-    <div id="xg01"></div>
-    <div id="xg02"></div>
-</div>
-
-<!-- <p align="center">
+<p align="center">
 <img src="_pic/02.png" width="35%" alt="池馆Ver.2.3.1">
 </br>
-</p> -->
+</p>
 
 ### 升级账户
 
