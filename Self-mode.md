@@ -2,9 +2,9 @@
 ## 进入方式
 <br>
 
-- 可从首页任意课程进入「课程列表」选择已购教材开始学习。
+- 可从首页任意课程进入「课程列表」选择已购教材 / 已扫描资源码开通开始学习。
 
-- 从「班级」- 「我学习的」- 「课程」进入教师选定的教材开始学习。
+- 从「班级」- 「我学习的」- 「课程」进入由教师列入必学章节的内容开始学习。
 <br>
 <p align="center">
 <img src="_pic/03.png" width="35%" alt="池馆Ver.2.3.1">
@@ -21,7 +21,7 @@
     
     -  提交后，将<span class="highlight">永久保留</span>批改结果。
 	
-!> 被列入班级的课程，其「完成率」和「正确率」会依据[教师设定](/Digiclass?id=形成性评估)算入最终评分，请谨慎提交。
+!> 被列入班级必学章节的课程，其「完成率」和「正确率」会依据[教师设定](/Digiclass?id=形成性评估)算入最终评分，请谨慎提交。
 
 
 ## 关于进度条
@@ -40,4 +40,4 @@
 
 - 师生均可通过「我的」-「我的学习」入口可以查看自己每本教材的「完成率」和「正确率」。
 
-?> 🔗 非作答页面可通过底部「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq"> <img src="_pic/wechat.svg" alt="wechat"> <img src="_pic/qzone.svg" alt="qzone" title="qzone"> <img src="_pic/WechatMoment.svg" alt="wechatmoment" title="wechatmoment"> 的四种渠道。
+<!-- ?> 🔗 非作答页面可通过底部「分享」按钮发布至社交媒体，目前支持腾讯系 <img src="_pic/qq.svg" alt="qq"> <img src="_pic/wechat.svg" alt="wechat"> <img src="_pic/qzone.svg" alt="qzone" title="qzone"> <img src="_pic/WechatMoment.svg" alt="wechatmoment" title="wechatmoment"> 的四种渠道。 -->
