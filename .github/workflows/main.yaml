@@ -1,0 +1,30 @@
+name: 自动部署
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 压缩
+        run: tar czf ../guide.tar.gz --exclude=".git" .
+
+      - name: 上传至服务器
+        uses: easingthemes/ssh-deploy@main
+        with:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          ARGS: '-rlgoDzvc -i'
+          SOURCE: '../guide.tar.gz'
+          REMOTE_HOST: n.pointhouse.cn
+          REMOTE_USER: ecs-user
+          TARGET: /mnt/shared/upload
+          SCRIPT_AFTER: |
+            tar xzf /mnt/shared/upload/guide.tar.gz -C /mnt/shared/static/guide
