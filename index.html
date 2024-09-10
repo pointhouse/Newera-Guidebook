@@ -10,7 +10,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
   <script src="_assets/jspdf.js"></script>
   <script src="_assets/html2canvas.js"></script>
-  <script src="_assets/dom2image.js"></script>
   <script type="text/javascript" src="_assets/video_url.js"></script>
   <script src="//unpkg.byted-static.com/xgplayer/2.31.2/browser/index.js" type="text/javascript"></script>
   <link rel="stylesheet" href="_assets/vue.css">
@@ -179,90 +178,91 @@
 
           hook.doneEach(function(){
 
-            if(document.getElementById("xg01")){
-              let player = new Player({
-                id: 'xg01',
-                url: `${xgArray[0]}`,
-                download: true,
-                videoInit: true,
-                fitVideoSize: 'fixHeight'
-              });
-            } else {console.log("无1号视频")};
+            // if(document.getElementById("xg01")){
+            //   let player = new Player({
+            //     id: 'xg01',
+            //     url: `${xgArray[0]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fitVideoSize: 'fixHeight'
+            //   });
+            // } else {console.log("无1号视频")};
 
-            if(document.getElementById("xg02")){
-              let player02 = new Player({
-                id: 'xg02',
-                url: `${xgArray[1]}`,
-                download: true,
-                videoInit: true,
-                fitVideoSize: 'fixHeight'
-              });
-            } else {console.log("无2号视频")};
+            // if(document.getElementById("xg02")){
+            //   let player02 = new Player({
+            //     id: 'xg02',
+            //     url: `${xgArray[1]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fitVideoSize: 'fixHeight'
+            //   });
+            // } else {console.log("无2号视频")};
 
-            if(document.getElementById("xg03")){
-              let player03 = new Player({
-                id: 'xg03',
-                url: `${xgArray[2]}`,
-                download: true,
-                videoInit: true,
-                fitVideoSize: 'fixHeight'
-              });
-            } else {console.log("无3号视频")}; 
+            // if(document.getElementById("xg03")){
+            //   let player03 = new Player({
+            //     id: 'xg03',
+            //     url: `${xgArray[2]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fitVideoSize: 'fixHeight'
+            //   });
+            // } else {console.log("无3号视频")}; 
 
-            if(document.getElementById("xg04")){
-              let player04 = new Player({
-                id: 'xg04',
-                url: `${xgArray[3]}`,
-                download: true,
-                videoInit: true,
-                fitVideoSize: 'fixHeight'
-              });
-            } else {console.log("无4号视频")}; 
+            // if(document.getElementById("xg04")){
+            //   let player04 = new Player({
+            //     id: 'xg04',
+            //     url: `${xgArray[3]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fitVideoSize: 'fixHeight'
+            //   });
+            // } else {console.log("无4号视频")}; 
 
 
-            if(document.getElementById("xg05")){
-              let player05 = new Player({
-                id: 'xg05',
-                url: `${xgArray[4]}`,
-                download: true,
-                videoInit: true,
-                fluid: true,
-                fitVideoSize: 'fixWidth',
-              });
-            } else {console.log("无5号视频")}; 
+            // if(document.getElementById("xg05")){
+            //   let player05 = new Player({
+            //     id: 'xg05',
+            //     url: `${xgArray[4]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fluid: true,
+            //     fitVideoSize: 'fixWidth',
+            //   });
+            // } else {console.log("无5号视频")}; 
 
-            if(document.getElementById("xg06")){
-              let player06 = new Player({
-                id: 'xg06',
-                url: `${xgArray[5]}`,
-                download: true,
-                videoInit: true,
-                fluid: true,
-                fitVideoSize: 'fixWidth',
-              });
-            } else {console.log("无6号视频")}; 
+            // if(document.getElementById("xg06")){
+            //   let player06 = new Player({
+            //     id: 'xg06',
+            //     url: `${xgArray[5]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fluid: true,
+            //     fitVideoSize: 'fixWidth',
+            //   });
+            // } else {console.log("无6号视频")}; 
 
-            if(document.getElementById("xg07")){
-              let player07 = new Player({
-                id: 'xg07',
-                url: `${xgArray[6]}`,
-                download: true,
-                videoInit: true,
-                fluid: true,
-                fitVideoSize: 'fixWidth',
-              });
-            } else {console.log("无7号视频")}; 
+            // if(document.getElementById("xg07")){
+            //   let player07 = new Player({
+            //     id: 'xg07',
+            //     url: `${xgArray[6]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fluid: true,
+            //     fitVideoSize: 'fixWidth',
+            //   });
+            // } else {console.log("无7号视频")}; 
 
-            if(document.getElementById("xg08")){
-              let player08 = new Player({
-                id: 'xg08',
-                url: `${xgArray[7]}`,
-                download: true,
-                videoInit: true,
-                fluid: true,
-                fitVideoSize: 'fixWidth',
-              });
-            } else {console.log("无8号视频")};             
+            // if(document.getElementById("xg08")){
+            //   let player08 = new Player({
+            //     id: 'xg08',
+            //     url: `${xgArray[7]}`,
+            //     download: true,
+            //     videoInit: true,
+            //     fluid: true,
+            //     fitVideoSize: 'fixWidth',
+            //   });
+            // } else {console.log("无8号视频")};
+        // 视频加载，正常情况请关闭。
 
             const mainContent = document.querySelector('.content');
             const main = document.querySelector('#main');
@@ -327,11 +327,11 @@
 
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="_assets/docsify.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/search.min.js"></script>
+  <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/zoom-image.min.js"></script>
   <script src="https://unpkg.com/spacingjs" defer></script>
 </script>
 </body>
