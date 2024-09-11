@@ -1,3 +1,13 @@
+### 下载
+
+- 苹果 iOS 用户可直接在 App Store 搜索“池馆”。
+
+- 安卓品牌众多，又有各自的应用商店，且盗版众多，故目前未能逐一上架，现阶段，建议通过<a href="http://www.pointhouse.cn/download" target="_blank">此链接</a>下载。非应用商店下载的软件需绕过手机的安全权限才能安装，安装前请先在系统设置内解开限制。
+
+- 安卓某些应用商店有冒用“池馆”名称的盗版软件，请勿下载。我们已在积极维权。
+
+- 华为的鸿蒙系统也请通过<a href="http://www.pointhouse.cn/download" target="_blank">此链接</a>下载。
+
 ### 注册 
 
 </br>
