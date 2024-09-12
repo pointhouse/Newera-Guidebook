@@ -9,8 +9,8 @@
 - 安卓某些应用商店有冒用“池馆”名称的盗版软件，请勿下载。正版软件无任何广告。我们已在积极维权。
 
 <p align="center">
-<img src="_pic/盗版软件.png" width="50%" alt="盗版软件">
-</br>
+  <img src="_pic/盗版软件.png" width="50%" alt="盗版软件">
+  </br>
 </p>
 
 - 华为的鸿蒙系统也请通过<a href="http://www.pointhouse.cn/download" target="_blank">此链接</a>下载。
@@ -29,9 +29,9 @@
 * 补全个人信息：学校、学号、姓名。请尽可能如实填写，以便教师用户、管理员进行管理，也方便查阅<span class="highlight">校本材料</span>。
 
 <p align="center">
-<img src="_pic/02.png" width="35%" alt="池馆Ver.2.3.1">
-</br>
+  <img src="_pic/02.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
+</br>
 
 ### 升级账户
 

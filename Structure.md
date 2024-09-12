@@ -16,7 +16,7 @@
 
 </br>
 <p align="center">
-<img src="_pic/数字化教材.png" width="80%" alt="池馆Ver.2.6">
+    <img src="_pic/数字化教材.png" width="80%" alt="池馆Ver.2.6">
 </p>
 
 ### 公益讲座与扩展课程
@@ -29,7 +29,7 @@
 
 </br>
 <p align="center">
-<img src="_pic/公益讲座.png" width="35%" alt="池馆Ver.2.6">
+    <img src="_pic/公益讲座.png" width="35%" alt="池馆Ver.2.6">
 </p>
 
 ### 资源库
@@ -44,7 +44,7 @@
 
 <br>
 <p align="center">
-<img src="_pic/资源库.png" width="60%" alt="池馆Ver.2.6">
+    <img src="_pic/资源库.png" width="60%" alt="池馆Ver.2.6">
 </p>
 
 ### 题库
@@ -63,7 +63,7 @@
 
 </br>
 <p align="center">
-<img src="_pic/08.png" width="35%" alt="池馆Ver.2.3.1">
+    <img src="_pic/08.png" width="35%" alt="池馆Ver.2.3.1">
 </p>
 </br>
 

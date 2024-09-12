@@ -105,9 +105,10 @@
 - 无纸化考试系统无须另外购买，教师用户可免费使用。移动端、网页端通用。
 
 <br>
-<div class="pc-container">
+<p align="center">
 <img src="_pic/考试界面.png" width="70%" alt="池馆Ver.2.6">
-</div>
+</p>
+<br>
 
 - 依托后台搭建好的「模版库」，可自动生成试卷。目前已建立&即将建立的考试模版（已建立模版均已参考考试大纲调整为最新版本）：
 	- [x] PRETCO-A 级
@@ -127,6 +128,7 @@
 <div class="pc-container">
 <img src="_pic/倒计时与答题卡.png" width="80%" alt="池馆Ver.2.6">
 </div>
+<br>
 
 - 支持「切屏甄别」功能，教师可在创建界面设置切屏超过n次将学生踢出考试或标记为作弊。
 
@@ -143,9 +145,10 @@
 - 可随时查看单个学生的学习情况。方便老师适时进行教学干预。也可就教材内某个具体内容发起班级讨论。
 
 <br>
-<div class="pc-container">
+<p align="center">
 <img src="_pic/班级监管与班内论坛.png" width="80%" alt="池馆Ver.2.6">
-</div>
+</p>
+<br>
 
 - 从班级内点进对应教材，可随时查看单个学生的学习情况。方便老师适时进行教学干预。也可就教材内某个具体内容发起班级讨论。
 
@@ -162,9 +165,9 @@
 - 可在「班级管理」- 「成绩汇总」（网页端为「成绩详情」）中查看每个学生具体的得分情况。
 
 <br>
-<div class="pc-container">
+<p align="center">
 <img src="_pic/17.jpg" width="70%" alt="池馆Ver.2.3.1">
-</div>
+</p>
 <br>
 
 - 若需导出 Excel 格式的成绩汇总请在网页端操作。（均位于各详情界面的右上角）
@@ -182,6 +185,6 @@
 - 学校管理员可以统一发布任务、作业、考试，一次发布即可在本校所有教学班级生效。
 
 <br>
-<div class="pc-container">
+<p align="center">
 <img src="_pic/学校管理员账户.png" width="70%" alt="池馆Ver.2.6">
-</div>
+</p>

@@ -13,3 +13,7 @@
 <hr/>
 
 [Digiclass](Digiclass.md ':include')
+
+<hr/>
+
+[Digiclass](FAQ.md ':include')
