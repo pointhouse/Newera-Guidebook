@@ -10,14 +10,10 @@
 </p>
 </br>
 
-- 本手册旨在同时为上述两个平台提供<span class="highlight">帮助文档</span>。
-
+- 本手册旨在同时为上述平台提供<span class="highlight">帮助文档</span>。
 - 可在移动端阅读此手册，若配图随屏幕尺寸收缩过小，单击图片即可自动放大。网页端体验更舒适。
-
 - 若想直接阅读总览版本，请进入：[Overview Page](Overview)
-
 - 每个页面均可通过右上角&nbsp;&nbsp;<span class="ps-icon ps-icon-download" data-html2canvas-ignore="true"></span>下载 PDF 版本，储存到本地。
-
 - 配套教材目前有如下品类：[🚪](ISBN.md)
 
   - 新时代大学进阶英语综合教程（第3版）、视听说教程（第3版）、练习册（第3版）、长篇阅读（第2版）；
