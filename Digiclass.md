@@ -45,7 +45,7 @@
 </p>
 <br>
 
-- 发布任务后，班内学生每次完成，教师用户都会在 <span class='highlight'>站内信 <span class="ps-icon ps-icon-mail"></span></span> 收到系统推送的提示。相应地，学生用户也会在站内信  <span class='highlight'>站内信 <span class="ps-icon ps-icon-mail"></span></span> 中收到班级内的新任务提示。
+- 发布任务后，班内学生每次完成，教师用户都会在 <span class='highlight'>站内信</span> 收到系统推送的提示。相应地，学生用户也会在站内信  <span class='highlight'>站内信</span> 中收到班级内的新任务提示。
 
 - 「投票」功能会自动保存之前的发布记录，可在不同班级内发送相同投票，也可在模版基础上进行调整。
 
