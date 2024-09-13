@@ -2,7 +2,7 @@
 
 !> 在参考本文档前，请确保您设备上的池馆APP已更新至 **2.6** 或以上版本。
 
-- 移动端<span class="highlight">“池馆”APP</span>与网页端<span class="highlight" title="www.pointhouse.cn">“新时代外语”网站</span>是与“新时代大学英语”系列英语教材配套的英语学习平台，功能一致，且账户互通。
+- 移动端<span class="highlight">“池馆”APP</span>与网页端<span class="highlight" title="www.pointhouse.cn">“新时代外语”网站</span>是与「新时代大学英语」系列英语教材配套的英语学习平台，功能一致，且账户互通。
 
 </br>
 <p align="center">
