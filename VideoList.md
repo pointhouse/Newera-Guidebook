@@ -1,45 +1,83 @@
-### 手机端操作演示
+## 手机端操作演示
 
 </br>
 
-<div id="MobileVideosContainer">
-	<div class="TextRapper">
-		<div id="xg01"></div>
-		<div class="illustrated-text">01.如何用手机号注册账号</div>
-	</div>
-	<div class="TextRapper">
-		<div id="xg02"></div>
-		<div class="illustrated-text non-fill">演示视频02（待传）</div>
-	</div>
-	<div class="TextRapper">
-		<div id="xg03"></div>
-		<div class="illustrated-text non-fill">演示视频03（待传）</div>
-	</div>
-<!-- 	<div class="TextRapper">
-		<div id="xg04"></div>
-		<div class="illustrated-text non-fill">演示视频04</div>
-	</div> -->
+### 如何下载 APP
+<div class="video-container mobile">
+	<video width="100%" controls>
+	<source src="_pic/01video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Download App</div>
 </div>
 
-### 网页端操作演示
+</br>
+
+### 如何注册、登陆、领取免费课程
+<div class="video-container mobile">
+	<video width="100%" controls>
+	<source src="_pic/02video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Sign-up</div>
+</div>
 
 </br>
 
-<div id="WebVideosContainer">
-	<div class="TextRapper">
-		<div id="xg05"></div>
-		<div class="illustrated-text">01.登陆演示</div>
-	</div>
-	<div class="TextRapper">
-		<div id="xg06"></div>
-		<div class="illustrated-text">02.如何创建一个班级</div>
-	</div>
-<!-- 	<div class="TextRapper">
-		<div id="xg07"></div>
-		<div class="illustrated-text non-fill">演示视频07</div>
-	</div>
-	<div class="TextRapper">
-		<div id="xg08"></div>
-		<div class="illustrated-text non-fill">演示视频08</div>
-	</div> -->
+### 自主学习
+<div class="video-container mobile">
+	<video width="100%" controls>
+	<source src="_pic/03video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Independent learning</div>
+</div>
+
+</br>
+
+### 如何升级教师权限
+<div class="video-container mobile">
+	<video width="100%" controls>
+	<source src="_pic/04video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Upgrade to teacher access</div>
+</div>
+
+</br>
+
+### 如何升级教师权限
+<div class="video-container mobile">
+	<video width="100%" controls>
+	<source src="_pic/04video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Upgrade to teacher access</div>
+</div>
+
+</br>
+
+### 如何管理班级
+<div class="video-container mobile">
+	<video width="100%" controls>
+	<source src="_pic/06video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Class management</div>
+</div>
+
+## 网页端操作演示
+
+</br>
+
+### 如何下载备课素材
+<div class="video-container webpage">
+	<video width="100%" controls>
+	<source src="_pic/05video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Download teaching materials</div>
+</div>
+
+</br>
+
+### 如何使用题库系统
+<div class="video-container webpage">
+	<video width="100%" controls>
+	<source src="_pic/07video.mp4" type="video/mp4">
+	</video>
+	<div class="explaination">Question Bank</div>
 </div>

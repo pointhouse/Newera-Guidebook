@@ -10,8 +10,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
   <script src="_assets/jspdf.js"></script>
   <script src="_assets/html2canvas.js"></script>
-  <!-- <script type="text/javascript" src="_assets/video_url.js"></script> -->
-  <!-- <script src="//unpkg.byted-static.com/xgplayer/2.31.2/browser/index.js" type="text/javascript"></script> -->
   <link rel="stylesheet" href="_assets/vue.css">
   <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
 <style>
@@ -72,36 +70,40 @@
     font-size: 10px;
   }
 
+  .video-container {
+  margin: 0 auto 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .mobile {
+    max-width: 320px;
+  }
+
+  .webpage {
+    max-width: 640px;
+  }
+
+  .video-container video {
+    width: 100%;
+    height: auto;
+  }
+
+  .video-container .explaination {
+    text-align: center;
+    padding: 10px 0;
+    font-weight: bold;
+    color: #34495e;
+  }
+
   @media screen and (max-width: 768px){
     #homework {
       padding: .5rem .8rem;
       border-radius: .5rem;
       margin: 0 1rem;
     };
-  }
-
-/*  .xg-container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-  }*/
-
-  #MobileVideosContainer {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 5px;
-    row-gap: 15px;
-    justify-items: center;
-  }
-
-  #WebVideosContainer {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 10px;
-    row-gap: 15px;
-    justify-content: center;
-    align-items: center;
   }
 
   .TextRapper {
@@ -126,14 +128,6 @@
       row-gap: 15px;
     }
 
-/*    #WebVideosContainer {
-      display: grid;
-      grid-template-columns: 1fr;
-      row-gap: 15px;
-      justify-items: center;
-    }*/
-  }
-
   @media screen and (max-width: 600px) {
     #MobileVideosContainer {
       display: grid;
@@ -141,6 +135,13 @@
       row-gap: 15px;
     }
   }
+
+@media (max-width: 768px) {
+  .video-container {
+    margin: 0 auto 15px;
+    padding: 8px;
+  }
+}
 
 </style>
 </head>
@@ -160,7 +161,7 @@
       subMaxLevel:3,
 
       footer: {
-        copy: '</br></br><span>Latest Update 2024.9.18 农历八月十七</br></span>',
+        copy: '</br></br><span>Latest Update 2025.8.28 农历七月初六</br></span>',
         auth: ' <strong>新时代外语研究中心数字化小组</strong>',
         style: 'font-size: 10px; text-align: center;',
       },
@@ -177,92 +178,6 @@
         function(hook, vm) {
 
           hook.doneEach(function(){
-
-            // if(document.getElementById("xg01")){
-            //   let player = new Player({
-            //     id: 'xg01',
-            //     url: `${xgArray[0]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fitVideoSize: 'fixHeight'
-            //   });
-            // } else {console.log("无1号视频")};
-
-            // if(document.getElementById("xg02")){
-            //   let player02 = new Player({
-            //     id: 'xg02',
-            //     url: `${xgArray[1]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fitVideoSize: 'fixHeight'
-            //   });
-            // } else {console.log("无2号视频")};
-
-            // if(document.getElementById("xg03")){
-            //   let player03 = new Player({
-            //     id: 'xg03',
-            //     url: `${xgArray[2]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fitVideoSize: 'fixHeight'
-            //   });
-            // } else {console.log("无3号视频")}; 
-
-            // if(document.getElementById("xg04")){
-            //   let player04 = new Player({
-            //     id: 'xg04',
-            //     url: `${xgArray[3]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fitVideoSize: 'fixHeight'
-            //   });
-            // } else {console.log("无4号视频")}; 
-
-
-            // if(document.getElementById("xg05")){
-            //   let player05 = new Player({
-            //     id: 'xg05',
-            //     url: `${xgArray[4]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fluid: true,
-            //     fitVideoSize: 'fixWidth',
-            //   });
-            // } else {console.log("无5号视频")}; 
-
-            // if(document.getElementById("xg06")){
-            //   let player06 = new Player({
-            //     id: 'xg06',
-            //     url: `${xgArray[5]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fluid: true,
-            //     fitVideoSize: 'fixWidth',
-            //   });
-            // } else {console.log("无6号视频")}; 
-
-            // if(document.getElementById("xg07")){
-            //   let player07 = new Player({
-            //     id: 'xg07',
-            //     url: `${xgArray[6]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fluid: true,
-            //     fitVideoSize: 'fixWidth',
-            //   });
-            // } else {console.log("无7号视频")}; 
-
-            // if(document.getElementById("xg08")){
-            //   let player08 = new Player({
-            //     id: 'xg08',
-            //     url: `${xgArray[7]}`,
-            //     download: true,
-            //     videoInit: true,
-            //     fluid: true,
-            //     fitVideoSize: 'fixWidth',
-            //   });
-            // } else {console.log("无8号视频")};
-        // 视频加载，正常情况请关闭。
 
             const mainContent = document.querySelector('.content');
             const main = document.querySelector('#main');
