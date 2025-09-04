@@ -42,16 +42,6 @@
 
 </br>
 
-### 如何升级教师权限
-<div class="video-container mobile">
-	<video width="100%" controls>
-	<source src="_pic/04video.mp4" type="video/mp4">
-	</video>
-	<div class="explaination">Upgrade to teacher access</div>
-</div>
-
-</br>
-
 ### 如何管理班级
 <div class="video-container mobile">
 	<video width="100%" controls>
