@@ -1,11 +1,23 @@
 ### 新时代大学英语系列教材 ISBN 信息表
-<a data-html2canvas-ignore="true" href="http://www.njupco.com/" target="_blank"><img src="https://img.shields.io/badge/NJUP-昌明国粹，融化新知-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="njupco"></a></br>
-<a data-html2canvas-ignore="true" href="https://dafls.nju.edu.cn" target="_blank"><img src="https://img.shields.io/badge/新文科-Whole Person Education-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="newlit"></a>
+<!-- <a data-html2canvas-ignore="true" href="http://www.njupco.com/" target="_blank"><img src="https://img.shields.io/badge/NJUP-昌明国粹，融化新知-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="njupco"></a></br>
+<a data-html2canvas-ignore="true" href="https://dafls.nju.edu.cn" target="_blank"><img src="https://img.shields.io/badge/新文科-Whole Person Education-lightgrey?labelColor=rgba(105,7,90,0.8)" alt="newlit"></a> -->
 
 </br>
 
 | ISBN | Title | PuDate | Prize/¥ | Publisher |
 | :--: | :-: | :-----: | :---: | :-------: |
+| 978-7-305-28637-7 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 1（第4版）</span> | 2025.2 | 67.00 | 南京大学出版社 |
+| 978-7-305-28638-4 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 2（第4版）</span> | 2025.2 | 67.00 | 南京大学出版社 |
+| 978-7-305-28639-1 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 3（第4版）</span> | 2025.2 | 67.00 | 南京大学出版社 |
+| 978-7-305-28640-7 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 4（第4版）</span> | 2025.2 | 67.00 | 南京大学出版社 |
+| 978-7-305-28641-4 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 1（第4版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-28642-1 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 2（第4版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-28643-8 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 3（第4版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-28644-5 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 4（第4版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-28645-2	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册1（第4版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-28646-9	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册2（第4版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-28647-6	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册3（第4版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-28648-3	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册4（第4版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
 | 978-7-305-25502-1 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 1（第3版）</span> | 2022.3 | 65.00 | 南京大学出版社 |
 | 978-7-305-25503-8 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 2（第3版）</span> | 2022.3 | 65.00 | 南京大学出版社 |
 | 978-7-305-25504-5 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程 3（第3版）</span> | 2022.3 | 65.00 | 南京大学出版社 |
@@ -14,10 +26,10 @@
 | 978-7-305-25511-3 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 2（第3版）</span> | 2022.3 | 90.00 | 南京大学出版社 |
 | 978-7-305-25512-0 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 3（第3版）</span> | 2022.3 | 90.00 | 南京大学出版社 |
 | 978-7-305-25513-7 | <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语综合教程教学参考书 4（第3版）</span> | 2022.3 | 90.00 | 南京大学出版社 |
-| 978-7-305-25506-9	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册1（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
-| 978-7-305-25507-6	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册2（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
-| 978-7-305-25508-3	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册3（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
-| 978-7-305-25509-0	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册4（第3版）</span> | 2022.3 | 39.00 | 南京大学出版社 |
+| 978-7-305-25506-9	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册1（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
+| 978-7-305-25507-6	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册2（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
+| 978-7-305-25508-3	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册3（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
+| 978-7-305-25509-0	| <span title="总主编：石坚、金雯、邹申">新时代大学进阶英语练习册4（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
 | 978-7-305-25514-4	| 新时代大学进阶英语视听说教程1（第3版） | 2022.3 | 62.00 | 南京大学出版社 |
 | 978-7-305-25515-1	| 新时代大学进阶英语视听说教程2（第3版） | 2022.3 | 62.00 | 南京大学出版社 |
 | 978-7-305-25516-8	| 新时代大学进阶英语视听说教程3（第3版） | 2022.3 | 62.00 | 南京大学出版社 |
@@ -32,11 +44,23 @@
 | 978-7-305-25525-0	| 新时代大学进阶英语长篇阅读4（第2版） | 2022.3 | 49.00 | 南京大学出版社 |
 
 
-</br>
-<a data-html2canvas-ignore="true" href="http://www.moe.gov.cn/srcsite/A07/moe_953/202012/t20201217_506058.html" target="_blank"><img src="https://img.shields.io/badge/十四五-职业教育国家规划教材-9cf?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABBVBMVEVOuZ9GmoyJ0L/H2exWjsUQl3lOd6wbYKrE0eMOjXLE59/V4/GJpMem3M8scbfx9voWU5uXr86qxuJzoc8QlHcKgGoiVJc/a6Xh6PEMh28YV59dgrMaXKUxrY8UTZRlq582kYJll8o/s5cRmXpIhMDT3eodZK4LhW1VopUZWaEUS5K40OemutWBqtQZWqOAps9rwq0dZrAVT5aUyb7w9PiDu7KTxLsip4ey1c/w9/WizMVdvqcxYJ6Nr9QyZqQXVZ0toIdNs5zB3dg6e7xMsZspjnwLgmzj7PWcvd0SnHxsjrq1xtwbXqcXgG9HnI3h8++14teOs9gTSZAIeGUToX8eaLL///9/wgIKAAAAV3RSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////wC+YzXjAAABfElEQVR42uzQ08LjUBSG4TLmX9vG2LZnwnX/d1LuZgV7F+fzngVP8KXg5v4TTDCVpSAI1euIYP6sOKEqHNdQFLPKIiPOYfUL0qQ/3c4LJA2HGQcu1kXytv7QodRu8gYH+WPF0s68DIjv++OmMY+J2e70jAOPlN+RKZJjfL2N4PUSer6/jpI0kqDx2jgK5TFAdvcUDiQJAP5J9xMEe/D73bw8AjiRU+9pBLsHJ+IEJHOe2LBPjpBHcaJRCETIkzixGaQckL9XEdt+IwDpqUsjGpJUrA9fXCrJrQLixasxiM0m4hnynU7yZ0iWTn5cJKmgPjEXSQYj5GuCLOgfhtUSJHuJiLeTfJQMryCDKIEVk2AxAgs5SiCceiAlJKThpbdMEkQvhEmLOhkS0l0PiZokRSShkECLOhkS/LiAWNTJkGB3GiGgZsI9O05GIyB/I0SiTIYkWuFIoE+ZbIok9nEHolIme84gIG/nDI59awZU4CLvhLtG5memZiU+qgUA5hPtNC3UoCMAAAAASUVORK5CYII=&style=social" alt="Pointhouse"></a>
+<!-- </br>
+<a data-html2canvas-ignore="true" href="http://www.moe.gov.cn/srcsite/A07/moe_953/202012/t20201217_506058.html" target="_blank"><img src="https://img.shields.io/badge/十四五-职业教育国家规划教材-9cf?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABBVBMVEVOuZ9GmoyJ0L/H2exWjsUQl3lOd6wbYKrE0eMOjXLE59/V4/GJpMem3M8scbfx9voWU5uXr86qxuJzoc8QlHcKgGoiVJc/a6Xh6PEMh28YV59dgrMaXKUxrY8UTZRlq582kYJll8o/s5cRmXpIhMDT3eodZK4LhW1VopUZWaEUS5K40OemutWBqtQZWqOAps9rwq0dZrAVT5aUyb7w9PiDu7KTxLsip4ey1c/w9/WizMVdvqcxYJ6Nr9QyZqQXVZ0toIdNs5zB3dg6e7xMsZspjnwLgmzj7PWcvd0SnHxsjrq1xtwbXqcXgG9HnI3h8++14teOs9gTSZAIeGUToX8eaLL///9/wgIKAAAAV3RSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////wC+YzXjAAABfElEQVR42uzQ08LjUBSG4TLmX9vG2LZnwnX/d1LuZgV7F+fzngVP8KXg5v4TTDCVpSAI1euIYP6sOKEqHNdQFLPKIiPOYfUL0qQ/3c4LJA2HGQcu1kXytv7QodRu8gYH+WPF0s68DIjv++OmMY+J2e70jAOPlN+RKZJjfL2N4PUSer6/jpI0kqDx2jgK5TFAdvcUDiQJAP5J9xMEe/D73bw8AjiRU+9pBLsHJ+IEJHOe2LBPjpBHcaJRCETIkzixGaQckL9XEdt+IwDpqUsjGpJUrA9fXCrJrQLixasxiM0m4hnynU7yZ0iWTn5cJKmgPjEXSQYj5GuCLOgfhtUSJHuJiLeTfJQMryCDKIEVk2AxAgs5SiCceiAlJKThpbdMEkQvhEmLOhkS0l0PiZokRSShkECLOhkS/LiAWNTJkGB3GiGgZsI9O05GIyB/I0SiTIYkWuFIoE+ZbIok9nEHolIme84gIG/nDI59awZU4CLvhLtG5memZiU+qgUA5hPtNC3UoCMAAAAASUVORK5CYII=&style=social" alt="Pointhouse"></a> -->
 
 | ISBN | Title | PuDate | Prize/¥ | Publisher |
 | :--: | :-: | :-----: | :---: | :-------: |
+| 978-7-305-29168-5 | <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程1（第3版）</span> | 2025.2 | 62.00 | 南京大学出版社 |
+| 978-7-305-29169-2 | <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程2（第3版）</span> | 2025.2 | 62.00 | 南京大学出版社 |
+| 978-7-305-29170-8	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程3（第3版）</span> | 2025.2 | 62.00 | 南京大学出版社 |
+| 978-7-305-29171-5	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程4（第3版）</span> | 2025.2 | 62.00 | 南京大学出版社 |
+| 978-7-305-29172-2	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程教学参考书1（第3版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-29173-9	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程教学参考书2（第3版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-29174-6	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程教学参考书3（第3版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-29175-3	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程教学参考书4（第3版）</span> | 2025.2 | 90.00 | 南京大学出版社 |
+| 978-7-305-29176-0	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语练习册1（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
+| 978-7-305-29177-7	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语练习册2（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
+| 978-7-305-29178-4	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语练习册3（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
+| 978-7-305-29179-1	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语练习册4（第3版）</span> | 2025.2 | 39.00 | 南京大学出版社 |
 | 978-7-305-24736-1 | <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程1（第2版）</span> | 2021.7 | 62.00 | 南京大学出版社 |
 | 978-7-305-24737-8 | <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程2（第2版）</span> | 2021.7 | 62.00 | 南京大学出版社 |
 | 978-7-305-24738-5	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语综合教程3（第2版）</span> | 2021.7 | 62.00 | 南京大学出版社 |
@@ -47,8 +71,8 @@
 | 978-7-305-24743-9	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语练习册2（第2版）</span> | 2021.7 | 39.00 | 南京大学出版社 |
 | 978-7-305-24744-6	| <span title="总主编：邹申、李桂兰、徐小贞">新时代实用英语练习册3（第2版）</span> | 2021.7 | 39.00 | 南京大学出版社 |
 
-</br>
-<a data-html2canvas-ignore="true" href="http://www.moe.gov.cn/srcsite/A07/moe_953/202012/t20201217_506058.html" target="_blank"><img src="https://img.shields.io/badge/十四五-职业教育国家规划教材-9cf?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABBVBMVEVOuZ9GmoyJ0L/H2exWjsUQl3lOd6wbYKrE0eMOjXLE59/V4/GJpMem3M8scbfx9voWU5uXr86qxuJzoc8QlHcKgGoiVJc/a6Xh6PEMh28YV59dgrMaXKUxrY8UTZRlq582kYJll8o/s5cRmXpIhMDT3eodZK4LhW1VopUZWaEUS5K40OemutWBqtQZWqOAps9rwq0dZrAVT5aUyb7w9PiDu7KTxLsip4ey1c/w9/WizMVdvqcxYJ6Nr9QyZqQXVZ0toIdNs5zB3dg6e7xMsZspjnwLgmzj7PWcvd0SnHxsjrq1xtwbXqcXgG9HnI3h8++14teOs9gTSZAIeGUToX8eaLL///9/wgIKAAAAV3RSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////wC+YzXjAAABfElEQVR42uzQ08LjUBSG4TLmX9vG2LZnwnX/d1LuZgV7F+fzngVP8KXg5v4TTDCVpSAI1euIYP6sOKEqHNdQFLPKIiPOYfUL0qQ/3c4LJA2HGQcu1kXytv7QodRu8gYH+WPF0s68DIjv++OmMY+J2e70jAOPlN+RKZJjfL2N4PUSer6/jpI0kqDx2jgK5TFAdvcUDiQJAP5J9xMEe/D73bw8AjiRU+9pBLsHJ+IEJHOe2LBPjpBHcaJRCETIkzixGaQckL9XEdt+IwDpqUsjGpJUrA9fXCrJrQLixasxiM0m4hnynU7yZ0iWTn5cJKmgPjEXSQYj5GuCLOgfhtUSJHuJiLeTfJQMryCDKIEVk2AxAgs5SiCceiAlJKThpbdMEkQvhEmLOhkS0l0PiZokRSShkECLOhkS/LiAWNTJkGB3GiGgZsI9O05GIyB/I0SiTIYkWuFIoE+ZbIok9nEHolIme84gIG/nDI59awZU4CLvhLtG5memZiU+qgUA5hPtNC3UoCMAAAAASUVORK5CYII=&style=social" alt="Pointhouse"></a>
+<!-- </br>
+<a data-html2canvas-ignore="true" href="http://www.moe.gov.cn/srcsite/A07/moe_953/202012/t20201217_506058.html" target="_blank"><img src="https://img.shields.io/badge/十四五-职业教育国家规划教材-9cf?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABBVBMVEVOuZ9GmoyJ0L/H2exWjsUQl3lOd6wbYKrE0eMOjXLE59/V4/GJpMem3M8scbfx9voWU5uXr86qxuJzoc8QlHcKgGoiVJc/a6Xh6PEMh28YV59dgrMaXKUxrY8UTZRlq582kYJll8o/s5cRmXpIhMDT3eodZK4LhW1VopUZWaEUS5K40OemutWBqtQZWqOAps9rwq0dZrAVT5aUyb7w9PiDu7KTxLsip4ey1c/w9/WizMVdvqcxYJ6Nr9QyZqQXVZ0toIdNs5zB3dg6e7xMsZspjnwLgmzj7PWcvd0SnHxsjrq1xtwbXqcXgG9HnI3h8++14teOs9gTSZAIeGUToX8eaLL///9/wgIKAAAAV3RSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////wC+YzXjAAABfElEQVR42uzQ08LjUBSG4TLmX9vG2LZnwnX/d1LuZgV7F+fzngVP8KXg5v4TTDCVpSAI1euIYP6sOKEqHNdQFLPKIiPOYfUL0qQ/3c4LJA2HGQcu1kXytv7QodRu8gYH+WPF0s68DIjv++OmMY+J2e70jAOPlN+RKZJjfL2N4PUSer6/jpI0kqDx2jgK5TFAdvcUDiQJAP5J9xMEe/D73bw8AjiRU+9pBLsHJ+IEJHOe2LBPjpBHcaJRCETIkzixGaQckL9XEdt+IwDpqUsjGpJUrA9fXCrJrQLixasxiM0m4hnynU7yZ0iWTn5cJKmgPjEXSQYj5GuCLOgfhtUSJHuJiLeTfJQMryCDKIEVk2AxAgs5SiCceiAlJKThpbdMEkQvhEmLOhkS0l0PiZokRSShkECLOhkS/LiAWNTJkGB3GiGgZsI9O05GIyB/I0SiTIYkWuFIoE+ZbIok9nEHolIme84gIG/nDI59awZU4CLvhLtG5memZiU+qgUA5hPtNC3UoCMAAAAASUVORK5CYII=&style=social" alt="Pointhouse"></a> -->
 
 | ISBN | Title | PuDate | Prize/¥ | Publisher |
 | :--: | :-: | :-----: | :---: | :-------: |
