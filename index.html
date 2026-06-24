@@ -10,6 +10,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
   <script src="_assets/jspdf.js"></script>
   <script src="_assets/html2canvas.js"></script>
+<!-- Chatwoot Component -->
+  <script>
+    window.chatwootSettings = {"position":"right","type":"standard","launcherTitle":""};
+    (function(d,t) {
+      var BASE_URL="https://app.chatwoot.com";
+      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=BASE_URL+"/packs/js/sdk.js";
+      g.async = true;
+      s.parentNode.insertBefore(g,s);
+      g.onload=function(){
+        window.chatwootSDK.run({
+          websiteToken: 'wJSVmPfnrx9oaM8AsYa2xqS3',
+          baseUrl: BASE_URL
+        })
+      }
+    })(document,"script");
+  </script>
+
   <link rel="stylesheet" href="_assets/vue.css">
   <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
 <style>
@@ -161,7 +179,7 @@
       subMaxLevel:3,
 
       footer: {
-        copy: '</br></br><span>Latest Update 2025.9.11 农历七月二十</br></span>',
+        copy: '</br></br><span>Latest Update 2026.6.24 农历五月初十</br></span>',
         auth: ' <strong>新时代外语研究中心数字化小组</strong>',
         style: 'font-size: 10px; text-align: center;',
       },
